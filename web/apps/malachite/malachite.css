@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+}
+
+h2 {
+    color: darkred;
+}
+
+li {
+    list-style-type: circle;
+    font-weight: bolder;
+}
+
+li em {
+    color: crimson;
+    font-size: 125%;
+}
+
+span.danger {
+    color:olivedrab;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+a:link {
+    color: green;
+    font-weight: bold;
+}
+
+a:hover {
+    color: greenyellow;
+    text-decoration: underline double;
+}
+
+a:visited {
+    color: darkolivegreen;
+    text-decoration: underline dashed;
+}
